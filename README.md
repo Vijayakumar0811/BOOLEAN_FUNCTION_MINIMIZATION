@@ -1,5 +1,10 @@
 # BOOLEAN_FUNCTION_MINIMIZATION
 
+**EXP2: BOOLEAN FUNCTION MINIMIZATION**
+
+NAME: S.VIJAYAKUMAR
+
+REG NO: 24900562
 **AIM:**
 
 To implement the given logic function verify its operation in Quartus using Verilog programming.
